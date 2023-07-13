@@ -1,0 +1,10 @@
+space + pf = telescope fuzzy finder
+Ctrl + p = Git file search
+space + ps = grep
+
+HARPOON
+Ctrl + e = open harpoon menu
+space + a = add to harpoon menu
+
+UNDO-TREE
+space + u = toggles undo tree
