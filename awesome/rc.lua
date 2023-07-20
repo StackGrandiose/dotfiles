@@ -161,7 +161,7 @@ local function set_wallpaper(s)
 end
 
 --Sets the wallpaper with feh
-awful.spawn.with_shell("feh --bg-fill ~/.wallpaper/ventura-field.jpg")
+awful.spawn.with_shell("feh --bg-fill ~/.wallpaper/tan.png")
 -- Re-set wallpaper when a screen's geometry changes (e.g. different resolution)
 screen.connect_signal("property::geometry", set_wallpaper)
 
