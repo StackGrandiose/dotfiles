@@ -3,7 +3,7 @@ config files. Pretty basic configuration for general computing uses.
 ![alt text](https://github.com/StackGrandiose/dotfiles/blob/master/screenshot.jpg?raw=true)
 - Required packages/fonts if you want to replicate this configuration exactly: <br>
 `feh`: for a wallpaper <br>
-`Gohu Font Nerd Font`: pixelated font for polybar <br>
+`Gohu Nerd Font`: pixelated font for polybar <br>
 `Jet Brains Mono Nerd Font`: terminal font <br>
 `awesome`: WM <br>
  `picom`: Compositor <br>
