@@ -9,3 +9,5 @@ config files. Pretty basic configuration for general computing uses.
  `picom`: Compositor <br>
 `st`: terminal (will add st build later) <br>
 `neovim`: editor <br>
+`lf`: file explorer (dont use very often) <br>
+`ctpv`: lf previewer <br>
